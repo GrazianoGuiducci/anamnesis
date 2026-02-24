@@ -1,5 +1,9 @@
 # Anamnesis
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Status: v0.1 Validated](https://img.shields.io/badge/Status-v0.1%20Validated-green.svg)](spec/CRYSTALLIZATION.md)
+[![Built on D-ND](https://img.shields.io/badge/Built%20on-D--ND-purple.svg)](https://github.com/GrazianoGuiducci/MM_D-ND)
+
 > Context persistence system for AI coders — surviving token window compaction and context variance.
 
 ## The Problem
